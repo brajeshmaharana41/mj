@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "567864048077",
+    "project_id": "verifyotp-b5fe8",
+    "storage_bucket": "verifyotp-b5fe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567864048077:android:4ce311687cf69c2f8eac84",
+        "android_client_info": {
+          "package_name": "com.mjmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567864048077-ku7k79ibtqjt45pmp781r6qj73l9q6a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mjmart",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "567864048077-1d22b6glqa4nha66flci98cunjirof3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGI54UEDpqHkgVhbS_TU82V7bnytMMZZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567864048077-1d22b6glqa4nha66flci98cunjirof3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
